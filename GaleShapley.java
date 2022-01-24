@@ -12,6 +12,7 @@ import java.util.Map;
 import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
+//code to implement Gale shapley algorithm for matching pets with their owners 
 public class GaleShapley {
 
     public static void main(String[] args) throws IOException {
